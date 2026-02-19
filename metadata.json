@@ -1,0 +1,7 @@
+{
+  "name": "OmniSphere - The Everything App",
+  "description": "A comprehensive Super App integrating social networking, e-commerce, job listings, property rentals, and transportation services into a single unified ecosystem.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
